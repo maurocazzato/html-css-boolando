@@ -60,15 +60,18 @@ li{
     position: relative;
     width: calc((100% / 3) - 20px);
     margin: 10px;
+    display: block;
+}
+.box-img2{
+    
 }
 .box-img img{
     width: 100%;
 }
 .label{
     position: absolute;
-    top:80%;
-    right:75%;
-
+    top:70%;
+    right:55%;
 }
 
 .heart{
@@ -124,7 +127,7 @@ li{
     
 }
 .icone-f{
-    margin-left: 800px;
+    margin-left: 600px;
 }
 .testo-piccolo{
     font-size: 10px;
